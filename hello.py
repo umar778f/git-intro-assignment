@@ -1,1 +1,2 @@
-print("Hello! Welcome to my GitHub assignment.")
+name = input("Enter your name: ")
+print(f"Hello, {name}! Welcome to my GitHub assignment.")
