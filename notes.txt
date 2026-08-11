@@ -1,3 +1,3 @@
-1. Git is a version control system used to track changes in projects.
-2. git add moves changes to the staging area, while git commit saves them as a snapshot.
-3. GitHub is a cloud platform used to host Git repositories and collaborate with others.
+git add prepares changes in the staging area.
+git commit saves staged changes as a snapshot in the local repository.
+git push sends local commits to the remote GitHub repository.
